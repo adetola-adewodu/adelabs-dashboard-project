@@ -127,3 +127,4 @@ sudo -u postgres psql postgres
 [POSTGRESQL]:http://www.postgresql.org/
 [PSYCOPG]:http://initd.org/psycopg/
 [INSTALL POSTGRES ON UBUNTU]:https://help.ubuntu.com/community/PostgreSQL
+commit test
